@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+p{
+    color: blue;
+}
+
+ul.a{
+    list-style: square;
+}
