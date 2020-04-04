@@ -1,0 +1,10 @@
+#navigation{
+    background-color: red;
+    width: auto;
+}
+
+.move{
+    background-color: yellow;
+    margin-left: 250px;
+    padding-top: 500px;
+}

@@ -1,0 +1,11 @@
+#navigation{
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+
+.move{
+    background-color: red;
+    margin: 100px;
+    padding: 100px;
+}
